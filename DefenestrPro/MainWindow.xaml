@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DefenestrPro"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="DefenestrPro" Height="450" Width="800">
     <Grid>
-        
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Width="792"/>
+
     </Grid>
 </Window>
